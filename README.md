@@ -25,8 +25,8 @@ Flatdango is a mini web application for Flatiron Movie Theater that allows users
 ## Installation
 1. *Clone the repository:*
    ```sh
-   git clone https://github.com/yourusername/flatdango.git
-   cd flatdango
+   git clone 
+   cd flatdan (https://github.com/KiniBrown76/wk3-code-challngego)
 
 2. *Install JSON Server:*
 npm install -g json-server
@@ -91,4 +91,7 @@ PATCH /films/:id: Update the number of tickets sold for a movie.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure that your code follows the project's coding standards and includes relevant tests.
+
+## Author
+KiniBrown76
 
