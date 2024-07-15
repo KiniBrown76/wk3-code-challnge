@@ -8,12 +8,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const buyTicketButton = document.getElementById('buy-ticket');
 
     // Fetch and display the first movie's details
-    fetch('http://localhost:3000/films/1')
+    fetch('https://back-end-2-dusky.vercel.app/films/1')
         .then(response => response.json())
         .then(movie => displayMovieDetails(movie));
 
     // Fetch and populate the movie list
-    fetch('http://localhost:3000/films')
+    fetch('https://back-end-2-dusky.vercel.app/films')
         .then(response => response.json())
         .then(movies => {
             filmsList.innerHTML = ''; // Clear the placeholder element
