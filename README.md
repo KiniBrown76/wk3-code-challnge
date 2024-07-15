@@ -27,6 +27,7 @@ Flatdango is a mini web application for Flatiron Movie Theater that allows users
    ```sh
    git clone 
    cd flatdan (https://github.com/KiniBrown76/wk3-code-challngego)
+   deploy link (https://wk3-code-challnge.vercel.app/)
 
 2. *Install JSON Server:*
 npm install -g json-server
