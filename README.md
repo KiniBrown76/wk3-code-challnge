@@ -225,4 +225,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## Author
 KiniBrown76
+## Deploy
+[link](https://wk3-code-challnge.vercel.app/)
 
